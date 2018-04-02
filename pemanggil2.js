@@ -21,20 +21,20 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/03/overview-of-university-of-toronto.html"}
-if(x=="2"){xxx="/2018/03/overview-of-cornell-university-profile.html"}
-if(x=="3"){xxx="/2018/03/ETH-Zurich-Graduate-and-Masters-Degree-in-Switzerland.html"}
-if(x=="4"){xxx="/2018/03/brief-profile-university-of-tokyo-utokyo.html"}
-if(x=="5"){xxx="/2018/03/stanford-university-profile-overview.html"}
+if(x=="1"){xxx="/2018/03/online-psychology-class-college-credit.html"}
+if(x=="2"){xxx="/2018/03/top-10-online-college-for-business.html"}
+if(x=="3"){xxx="/2018/03/best-military-friendly-online-colleges.html"}
+if(x=="4"){xxx="/2018/03/top-10-online-colleges-for-business.html"}
+if(x=="5"){xxx="/2018/03/top-15-online-college-courses-for.html"}
 if(x=="6"){xxx="/2018/03/university-of-pennsylvania-profile.html"}
 if(x=="7"){xxx="/2018/03/kaplan-university-online-profile.html"}
 if(x=="8"){xxx="/2018/03/profile-from-harvard-university.html"}
 if(x=="9"){xxx="/2018/03/overview-of-university-of-michigan.html"}
-if(x=="10"){xxx="/2018/03/online-psychology-class-college-credit.html"}
-if(x=="11"){xxx="/2018/03/best-military-friendly-online-colleges.html"}
-if(x=="12"){xxx="/2018/03/top-15-online-college-courses-for.html"}
-if(x=="13"){xxx="/2018/03/top-10-online-college-for-business.html"}
-if(x=="14"){xxx="/2018/03/top-10-online-colleges-for-business.html"}a_to_ve[i].href="https://linkexist.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="/2018/03/overview-of-university-of-toronto.html"}
+if(x=="11"){xxx="/2018/03/ETH-Zurich-Graduate-and-Masters-Degree-in-Switzerland.html"}
+if(x=="12"){xxx="/2018/03/stanford-university-profile-overview.html"}
+if(x=="13"){xxx="/2018/03/overview-of-cornell-university-profile.html"}
+if(x=="14"){xxx="/2018/03/brief-profile-university-of-tokyo-utokyo.html"}a_to_ve[i].href="https://linkexist.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
